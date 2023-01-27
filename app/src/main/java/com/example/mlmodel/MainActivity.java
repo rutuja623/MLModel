@@ -28,7 +28,7 @@ import java.nio.ByteOrder;
 public class MainActivity extends AppCompatActivity {
 
 
-    TextView result, confidence;
+    TextView result;
     ImageView imageView;
     Button picture, gallery;
     int imageSize = 224;
